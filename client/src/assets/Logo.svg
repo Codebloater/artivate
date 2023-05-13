@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 68.3 14.63">
+  <defs>
+    <style>
+      .cls-1 {
+      fill: #ec4899;
+      }
+
+      .cls-2 {
+      fill: #597196;
+      font-family: Bahnschrift-Bold, Bahnschrift;
+      font-size: 12px;
+      font-variation-settings: 'wght' 700, 'wdth' 100;
+      font-weight: 700;
+      }
+
+      .cls-3 {
+      fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+      fill: #a855f7;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-.54" y1="9.01" x2="15.79" y2="4.26"
+      gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a855f7" />
+      <stop offset="1" stop-color="#ec4899" />
+    </linearGradient>
+  </defs>
+  <g id="Layer_2-2" data-name="Layer 2">
+    <g>
+      <g>
+        <polygon class="cls-1" points="18.22 4.24 15.77 8.48 13.32 4.24 18.22 4.24" />
+        <polygon class="cls-3"
+          points="12.24 4.24 14.69 8.48 12.24 12.72 7.35 12.72 4.9 8.48 2.45 4.24 4.9 0 7.35 4.24 9.79 8.48 12.24 4.24" />
+        <polygon class="cls-4" points="2.45 6.36 4.9 10.6 0 10.6 2.45 6.36" />
+      </g>
+      <text class="cls-2" transform="translate(24.88 11.38)">
+        <tspan x="0" y="0">artivate</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
