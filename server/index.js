@@ -6,7 +6,7 @@ import bcrypt from "bcrypt";
 import nodemailer from "nodemailer";
 
 import connectDB from "./mongodb/connect.js";
-import newsletterSchema from "./mongodb/models/newsletter.js";
+import newsletterSchema from "./mongodb/models/Newsletter.js";
 import userSchema from "./mongodb/models/User.js";
 
 dotenv.config();
