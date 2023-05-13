@@ -55,7 +55,7 @@ app.post("/feedback", async (req, res) => {
   });
 
   var mailOptions = {
-    from: "harshpathak@unimos.tech",
+    from: "feedback@artivate.xyz",
     to: "harshpathak27501@gmail.com",
     subject: `Query: ${subject}`,
     text: message,
@@ -128,8 +128,8 @@ app.post("/login", async (req, res) => {
 const startServer = async () => {
   try {
     connectDB(process.env.MONGODB_URL);
-    app.listen(process.env.PORT, () => {
-      console.log(`listening to port ${process.env.PORT}...`);
+    app.listen(30001, () => {
+      console.log(`listening to port ${3001}...`);
     });
   } catch (error) {}
 };
